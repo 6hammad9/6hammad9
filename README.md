@@ -18,7 +18,7 @@
 
 ## `$ whoami`
 
-M.Sc. Computer & Systems Engineering @ **TU Ilmenau** · 2+ years shipping production AI and full-stack systems.
+ML Research Intern @ **Fraunhofer IOSB** · M.Sc. Computer & Systems Engineering @ **TU Ilmenau** · 2+ years shipping production AI and full-stack systems.
 
 Not tutorials. Not demos. **Systems that run in the real world.**
 
